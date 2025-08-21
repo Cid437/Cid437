@@ -4,7 +4,9 @@
 
 ###
 
-<h2 align="center">Hello, ako si Donn</h2>
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&center=true&vCenter=true&pause=1000&color=CA00B8&width=435&lines=Hello%2C+ako+si+Donn" alt="Typing SVG" />
+</h1>
 
 ###
 
