@@ -40,13 +40,13 @@
  <img src="https://streak-stats.demolab.com?user=Cid437&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<p align="center">
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cid437&theme=dark" alt="Cid437" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cid437&theme=dark" alt="Cid437" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cid437&theme=dark" alt="Cid437" />
-</p>
+</div>
 
 ###
