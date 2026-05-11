@@ -4,13 +4,10 @@
 
 ###
 
-<div align="center">
+<div align="Center">
   <img height="200" src="https://media1.tenor.com/m/Fxf0peSYg_IAAAAd/invincible-edit.gif"  />
+   <img height="200" src="https://github.com/Cid437/Cid437/blob/main/Ako%20si%20Donn.gif"  />
 </div>
-
-###
-
-<h1 align="center">Hello, ako si Donn.</h1>
 
 ###
 
