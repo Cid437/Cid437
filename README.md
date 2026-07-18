@@ -1,83 +1,186 @@
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✦ HERO BANNER ✦                                -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,25:0B1026,50:111827,75:0F172A,100:020617&text=Donn%20Torres&fontColor=00FF17FF&fontSize=55&animation=fadeIn&fontAlignY=30&desc=Learner%20%7C%20IT%20Student%20%7C%20What?&descAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B3D2E,100:00FF41&height=210&section=header&text=Donn%20Torres&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20Builder&descSize=17&descAlignY=62&descAlign=50&animation=fadeIn" alt="hero banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF17FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=30&lines=%24+Loading+Profile...;%24+Establishing+Secure+Connection...;%24+Loading+Complete.;%24+Welcome+to+my+GitHub+Profile!"/>
+<br/>
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=Learning+by+building%2C+one+project+at+a+time.;Currently+exploring+Laravel+%2B+Vite.;Turning+coursework+into+real+applications.;Open+to+collaborations+and+internships." alt="typing" />
+
+<br/>
+
+![views](https://visitor-badge.laobi.icu/badge?page_id=Cid437.Cid437&color=00FF41&style=flat-square&labelColor=0D1117&label=PROFILE+VIEWS)
+![location](https://img.shields.io/badge/PHILIPPINES-%F0%9F%87%B5%F0%9F%87%AD-00FF41?style=flat-square&labelColor=0D1117)
+![status](https://img.shields.io/badge/STATUS-Studying%20%26%20Building-00FF41?style=flat-square&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            ✦ INTRO BLOCK ✦                              -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 ```yaml
 profile:
-  name: Donn Torres
-  role: IT Student
-  location: Philippines
+  name:       "Donn Torres"
+  role:       "IT Student"
+  location:   "Philippines"
+  status:     "Learning & building"
 
-skills:
-  programming_languages:
-    - C++
-    - Java
-    - JavaScript
-    - PHP
+currently_learning:
+  - "Laravel + Vite workflows"
+  - "Relational database design (MySQL)"
+  - "Embedded basics with Arduino"
 
-  web_technologies:
-    - HTML
-    - CSS
-    - MySQL
+interests:
+  - "Web application development"
+  - "Backend logic & systems programming"
 
-tools:
-  - GitHub
-  - VS Code
-  - XAMPP
-  - Arduino
-
-frameworks:
-  - Laravel
-  - Vite
-  - Bootstrap
 ```
+
+<br/>
+
+---
+
+## <samp>◆ &nbsp; About</samp>
+
+I'm an **IT student** based in the Philippines, focused on **full-stack web development**. Most of my hands-on work is in **PHP and Laravel**, backed by fundamentals in **C++ and Java** from coursework, and frontend basics in **HTML, CSS, and JavaScript**.
+
+<!-- TODO: add 1–2 more sentences about a program, school project, or focus area -->
+I like building small, complete projects rather than just following tutorials, currently working through Laravel + Node.js to get more comfortable with modern coding workflows.
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            ✦ TECH STACK ✦                               -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>◆ &nbsp; Tech Stack</samp>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### **▲** &nbsp; Languages
+
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF41)
+
 </td>
+<td align="center" width="50%">
 
-<td width="50%">
+#### **◈** &nbsp; Web & Frameworks
 
-<div align="center">
-<img height="250" src="https://media1.tenor.com/m/Fxf0peSYg_IAAAAd/invincible-edit.gif"  />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FF41)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
 
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=Cid437&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cid437&theme=dark" alt="Cid437" />
-</div>
+#### **◉** &nbsp; Database
 
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+
+</td>
+<td align="center" width="50%">
+
+#### **✦** &nbsp; Tools & Environment
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+![XAMPP](https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=00FF41)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
 
 </td>
 </tr>
 </table>
 
+<div/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✦ FEATURED PROJECTS ✦                          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>◆ &nbsp; Featured Projects</samp>
+
+<!-- TODO: replace these two with your real projects (name, description, stack, link) -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ &nbsp; Multimedia & Authoring Project
+
+> ![Web App](https://img.shields.io/badge/-Web%20App-00FF41?style=flat-square&labelColor=0D1117)
+
+Rotoscope & 3D rendering Using After Effects and Blender.
+
+`After Effects` `Blender` `Python` `HTML` `CSS` `Javascript`
+
+[**◉ View Code →**](https://github.com/Cid437)
+
+</td>
+<td width="50%" valign="top">
+
+### ✶ &nbsp; lalagyan pa
+
+> ![In Progress](https://img.shields.io/badge/-In%20Progress-00FF41?style=flat-square&labelColor=0D1117)
+
+Short description of what it does and why you built it.
+
+`JavaScript` `HTML` `CSS`
+
+[**◉ View Code →**](https://github.com/Cid437)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✦ GITHUB ANALYTICS ✦                           -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>◆ &nbsp; GitHub Analytics</samp>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="56" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="56" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="56" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="56" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="56" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="56" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="56" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="56" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="56" alt="arduino logo"  />
+
+<img src="https://streak-stats.demolab.com?user=Cid437&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="streak" />
+
 </div>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Cid437.Cid437&"  />
+---
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            ✦ Badges ✦                             -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+## <samp>✦ &nbsp; Badges &nbsp; ✦</samp>
+
+<br/>
+
+
+
 
 </div>
