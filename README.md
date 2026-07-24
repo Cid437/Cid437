@@ -133,20 +133,20 @@ Rotoscope & 3D rendering Using After Effects and Blender.
 
 `After Effects` `Blender` `Python` `HTML` `CSS` `Javascript`
 
-[**◉ View Code →**](https://github.com/Cid437)
+[**◉ View Code →**](https://github.com/Cid437/Multimedia-Authoring-Website)
 
 </td>
 <td width="50%" valign="top">
 
-### ✶ &nbsp; lalagyan pa
+### ✶ &nbsp; Node.js Website
 
 > ![In Progress](https://img.shields.io/badge/-In%20Progress-00FF41?style=flat-square&labelColor=0D1117)
 
-Short description of what it does and why you built it.
+A website built using the Node.js runtime environment
 
-`JavaScript` `HTML` `CSS`
+`Javascript` `CSS` `HTML` `MySql`
 
-[**◉ View Code →**](https://github.com/Cid437)
+[**◉ View Code →**](https://github.com/Cid437/projectNode237)
 
 </td>
 </tr>
