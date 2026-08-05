@@ -196,8 +196,8 @@ A website built using the Node.js runtime environment
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/acb670b7-0144-4ebd-93c8-c4be7bc6ae6d" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Ethical Hacker" width="80"/><br/>
-        <sub>Ethical Hacker</sub>
+        <img src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Linux Unhatched" width="80"/><br/>
+        <sub>Linux Unhatched</sub>
       </a>
     </td>
     <td align="center">
