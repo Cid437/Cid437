@@ -180,7 +180,36 @@ A website built using the Node.js runtime environment
 
 <br/>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/be024f61-1b47-485f-ab29-bd3755b7e196" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction To cybersecurity" width="80"/><br/>
+        <sub>Introduction To Cybersecurity</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/56b4fd31-1429-41a5-9f1f-8cfa989c6232" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="IT Support" width="80"/><br/>
+        <sub>IT Customer Support Basics</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/acb670b7-0144-4ebd-93c8-c4be7bc6ae6d" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Ethical Hacker" width="80"/><br/>
+        <sub>Ethical Hacker</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/14f8b580-de17-47ad-b666-c7eb753ef7c3" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/29e7c859-4719-4081-a12f-6bdc073a43d2/image.png" alt="Digital Awareness" width="80"/><br/>
+        <sub>Digital Awareness</sub>
+      </a>
+    </td>
+ </tr>
 
+  
+</table>
 
 
 </div>
