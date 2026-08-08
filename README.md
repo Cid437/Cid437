@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=Learning+by+building%2C+one+project+at+a+time.;Currently+exploring+Laravel+%2B+Vite.;Turning+coursework+into+real+applications.;Open+to+collaborations+and+internships." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=Learning+by+building%2C+one+project+at+a+time.;Currently+exploring+Laravel+%2B+NodeJs.;Turning+coursework+into+real+applications.;Open+to+collaborations+and+internships." alt="typing" />
 
 <br/>
 
@@ -32,9 +32,9 @@ profile:
   status:     "Learning & building"
 
 currently_learning:
-  - "Laravel + Vite workflows"
-  - "Relational database design (MySQL)"
-  - "Embedded basics with Arduino"
+  - "Nodejs + React workflows"
+  - "NoSQL"
+  - "Linux"
 
 interests:
   - "Web application development"
@@ -48,7 +48,7 @@ interests:
 
 ## <samp>◆ &nbsp; About</samp>
 
-I'm an **IT student** based in the Philippines, focused on **full-stack web development**. Most of my hands-on work is in **PHP and Laravel**, backed by fundamentals in **C++ and Java** from coursework, and frontend basics in **HTML, CSS, and JavaScript**.
+I'm an **IT student** based in the Philippines, focused on **full-stack web development**. Most of my hands-on work is in **NodeJs and Laravel**, backed by fundamentals in **C++ and Java** from coursework, and frontend basics in **HTML, CSS, and JavaScript**.
 
 <!-- TODO: add 1–2 more sentences about a program, school project, or focus area -->
 I like building small, complete projects rather than just following tutorials, currently working through Laravel + Node.js to get more comfortable with modern coding workflows.
