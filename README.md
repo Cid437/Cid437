@@ -201,9 +201,9 @@ A website built using the Node.js runtime environment
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/14f8b580-de17-47ad-b666-c7eb753ef7c3" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/29e7c859-4719-4081-a12f-6bdc073a43d2/image.png" alt="Digital Awareness" width="80"/><br/>
-        <sub>Digital Awareness</sub>
+      <a href="https://www.credly.com/badges/f27157e3-f14e-4b8a-851a-07196d880637/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/70cc28ef-542c-4ce2-8bad-e8d95daf5138/blob" alt="Operating Systems Support" width="80"/><br/>
+        <sub>Operating Systems Support</sub>
       </a>
     </td>
  </tr>
