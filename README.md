@@ -21,8 +21,10 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                            ✦ INTRO BLOCK ✦                              -->
+<!--                            ✦ PROFILE (YAML) ✦                           -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>◆ &nbsp; About me</samp>
 
 ```yaml
 profile:
@@ -30,127 +32,59 @@ profile:
   role:       "IT Student"
   location:   "Philippines"
   status:     "Learning & building"
+  github:     "https://github.com/Cid437"
+
+about:
+  summary: >
+    IT student building practical skills across IT support, Linux,
+    systems administration, networking, infrastructure, and web development.
+  recent_work:
+    - "Linux virtual machines & desktop environment installation"
+    - "Linux administration exercises"
+    - "Server environments & networking labs"
+    - "Troubleshooting documentation"
+  also_working_with: ["Node.js", "Laravel", "React", "PHP", "JavaScript", "MySQL"]
+  approach: "Learning by building and documenting practical labs, not just following tutorials."
 
 currently_learning:
-  - "Nodejs + React workflows"
-  - "NoSQL"
-  - "Linux"
+  - "Linux & system administration"
+  - "Python"
+  - "MongoDB, Node.js + React workflows"
+  - "Backend development"
+  - "Virtual machines & server environments"
 
 interests:
+  - "IT support & systems administration"
+  - "Linux & infrastructure"
+  - "Networking & cloud fundamentals"
   - "Web application development"
-  - "Backend logic & systems programming"
 
+tech_stack:
+  languages:      ["C++", "Java", "JavaScript", "PHP", "Python"]
+  web_development: ["HTML", "CSS", "React", "Node.js", "Express.js", "Laravel", "Bootstrap"]
+  systems_infra:  ["Linux", "Windows", "VirtualBox", "Bash", "Networking"]
+  databases:      ["MySQL", "MariaDB"]
+  tools:          ["Git", "GitHub", "VS Code", "XAMPP", "Cisco Packet Tracer"]
 ```
 
-<br/>
-
----
-
-## <samp>◆ &nbsp; About</samp>
-
-I'm an **IT student** based in the Philippines, focused on **full-stack web development**. Most of my hands-on work is in **NodeJs and Laravel**, backed by fundamentals in **C++ and Java** from coursework, and frontend basics in **HTML, CSS, and JavaScript**.
-
-<!-- TODO: add 1–2 more sentences about a program, school project, or focus area -->
-I like building small, complete projects rather than just following tutorials, currently working through Laravel + Node.js to get more comfortable with modern coding workflows.
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                            ✦ Badges ✦                             -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
----
+## <samp>◆ &nbsp; Badges</samp>
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                            ✦ TECH STACK ✦                               -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-## <samp>◆ &nbsp; Tech Stack</samp>
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<a href="https://www.credly.com/badges/be024f61-1b47-485f-ab29-bd3755b7e196" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" height="110"/></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/56b4fd31-1429-41a5-9f1f-8cfa989c6232" title="IT Customer Support Basics"><img src="https://images.credly.com/size/340x340/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="IT Customer Support Basics" height="110"/></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/acb670b7-0144-4ebd-93c8-c4be7bc6ae6d" title="Linux Unhatched"><img src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Linux Unhatched" height="110"/></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/f27157e3-f14e-4b8a-851a-07196d880637/public_url" title="Operating Systems Support"><img src="https://images.credly.com/size/340x340/images/70cc28ef-542c-4ce2-8bad-e8d95daf5138/blob" alt="Operating Systems Support" height="110"/></a>
 
-#### **▲** &nbsp; Languages
-
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF41)
-
-</td>
-<td align="center" width="50%">
-
-#### **◈** &nbsp; Web & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FF41)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### **◉** &nbsp; Database
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
-
-</td>
-<td align="center" width="50%">
-
-#### **✦** &nbsp; Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
-![XAMPP](https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
-
-</td>
-</tr>
-</table>
-
-<div/>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                          ✦ FEATURED PROJECTS ✦                          -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-## <samp>◆ &nbsp; Featured Projects</samp>
-
-<!-- TODO: replace these two with your real projects (name, description, stack, link) -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✦ &nbsp; Multimedia & Authoring Project
-
-> ![Web App](https://img.shields.io/badge/-Web%20App-00FF41?style=flat-square&labelColor=0D1117)
-
-Rotoscope & 3D rendering Using After Effects and Blender.
-
-`After Effects` `Blender` `Python` `HTML` `CSS` `Javascript`
-
-[**◉ View Code →**](https://github.com/Cid437/Multimedia-Authoring-Website)
-
-</td>
-<td width="50%" valign="top">
-
-### ✶ &nbsp; Node.js Website
-
-> ![In Progress](https://img.shields.io/badge/-In%20Progress-00FF41?style=flat-square&labelColor=0D1117)
-
-A website built using the Node.js runtime environment
-
-`Javascript` `CSS` `HTML` `MySql`
-
-[**◉ View Code →**](https://github.com/Cid437/projectNode237)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -163,53 +97,5 @@ A website built using the Node.js runtime environment
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Cid437&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" alt="streak" />
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--                            ✦ Badges ✦                             -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-## <samp>✦ &nbsp; Badges &nbsp; ✦</samp>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/be024f61-1b47-485f-ab29-bd3755b7e196" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction To cybersecurity" width="80"/><br/>
-        <sub>Introduction To Cybersecurity</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/56b4fd31-1429-41a5-9f1f-8cfa989c6232" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" alt="IT Support" width="80"/><br/>
-        <sub>IT Customer Support Basics</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/acb670b7-0144-4ebd-93c8-c4be7bc6ae6d" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Linux Unhatched" width="80"/><br/>
-        <sub>Linux Unhatched</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/f27157e3-f14e-4b8a-851a-07196d880637/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/70cc28ef-542c-4ce2-8bad-e8d95daf5138/blob" alt="Operating Systems Support" width="80"/><br/>
-        <sub>Operating Systems Support</sub>
-      </a>
-    </td>
- </tr>
-
-  
-</table>
-
 
 </div>
